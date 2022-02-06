@@ -46,7 +46,7 @@ const Data=[
         id:8,
         name:'Raj',
         aka:'Driver ma mailo',
-        src:'./img/rajs.jpg'
+        src:'./img/rajs.JPG'
     },
     {
         id:9,
@@ -82,25 +82,25 @@ const Data=[
         id:14,
         name:'Nishant',
         aka:'Party animal',
-        src:'./img/nishant.jpg'
+        src:'./img/nishant.JPG'
     },
     {
         id:15,
         name:'Sujan',
         aka:'Body builder',
-        src:'./img/sujan.jpg'
+        src:'./img/sujan.JPG'
     },
     {
         id:16,
         name:'Sushank',
         aka:'Pro banana eater',
-        src:'./img/sushank.jpg'
+        src:'./img/sushank.JPG'
     },
     {
         id:17,
         name:'Prajesh',
         aka:'Kaley dai',
-        src:'./img/prajesh.jpg'
+        src:'./img/prajesh.JPG'
     },
     {
         id:18,
