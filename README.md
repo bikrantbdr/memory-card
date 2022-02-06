@@ -6,4 +6,4 @@ The rules are simple.
 -The score resets if you select already selected card.
 
 #Future updates:   Card selection in sequential order.
-##get the live demo here :[Memeory](https://bikrantbdr.github.io/memory-card/)
+##get the live demo here :[Memory](https://bikrantbdr.github.io/memory-card/)
